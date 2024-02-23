@@ -3,11 +3,12 @@
 
 * {
   box-sizing: border-box;
-  background-color: #d3d3d3 ;
+ 
 }
 
 body {
-  background-color: #3b3b98;
+  background-color: #d3d3d3; 
+/*   #3b3b98; */
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
